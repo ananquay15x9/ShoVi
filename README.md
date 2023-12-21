@@ -32,7 +32,7 @@ Alternatively, you can clone the project using Git:
 ```bash
 git clone https://github.com/ananquay15x9/ShoVi.git
 cd ShoVi
-python shovi.py
+python sho-vi.py
 ```
 ## How to Use 📖
 
