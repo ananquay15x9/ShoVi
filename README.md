@@ -15,7 +15,7 @@
 
 ### Option 1: Exe File
 
-1. Download the [exe file](https://github.com/ananquay15x9/TheyGotChoPassword/blob/main/TheyGotChoPassword.exe) from the releases section.
+1. Download the [exe file](https://github.com/ananquay15x9/ShoVi/blob/master/shovi.exe) from the releases section.
 2. Run the executable to launch the Password Generator and Checker tool.
 
 ### Option 2: Python Code
