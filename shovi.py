@@ -38,8 +38,8 @@ text.insert(tk.END, "Please copy an IP address to start.\nWhen IP is not yet sel
 text.config(state=tk.DISABLED)
 
 #Shodan API Key
-SHODAN_API_KEY = 'NFYzfHTWyYVj3OSqoJ4y6phJkulfOIQu' 
-VT_API_KEY = '12ddf7fd42e547f5bd35ddbc7174a154237f17f2a5f27e18a279d2815b684979'
+SHODAN_API_KEY = 'YOUR-SHODAN-API-KEY' 
+VT_API_KEY = 'YOUR-VIRUS-TOTAL-API-KEY'
 
 
 # Shodan setup
