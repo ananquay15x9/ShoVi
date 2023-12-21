@@ -36,21 +36,11 @@ python shovi.py
 ```
 ## How to Use 📖
 
-1. **Generate Password:**
-    - Click the "Generate New Password" button to create a new secure password.
-    - The generated password will be displayed in the GUI.
+1. **Copy IP:**
+    - Copy an IP address to your clipboard (Ctrl + C). 
+    - It can be any kind of clipboard, whether it's on your browser or on a notepad.
+    - Once a valid IP address is copied, you should see the information of that IP. 
 
-2. **Password Strength Check:**
-    - The strength of the generated password is automatically assessed and displayed.
-    - Review the strength feedback to ensure the password meets security criteria.
-
-3. **Compromised Password Check:**
-    - Enter a password in the "Test your password" field.
-    - Click the "Test Password" button to check if the password has been compromised.
-
-4. **Customization:**
-    - Modify the code to enhance the appearance or add additional features.
-    - Personalize the tool according to your preferences.
 
 ## Contributing 🤝
 
@@ -62,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**TheyGotChoPassword** - Your go-to tool for generating secure passwords and checking their strength. Stay secure in the digital world! 🌐
+**ShoVi** - Explore IP all over the world! 🌐
