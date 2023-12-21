@@ -41,7 +41,13 @@ python sho-vi.py
     - It can be any kind of clipboard, whether it's on your browser or on a notepad.
     - Once a valid IP address is copied, you should see the information of that IP. 
 
-
+## Note 🚨
+ - If you use the exe file downloaded from this repository and it's showing 'null' for IP and Last Analysis Stats.
+ - It means that my API usage has reached its limit. Since you're using the executable file, it contains my free VirusTotal API in it.
+ - You can download and run this [Python code](https://github.com/ananquay15x9/ShoVi/blob/master/sho-vi.py) with your own API keys.
+ - You will need to go to [VirusTotal official website](https://www.virustotal.com/gui/home/upload) and [Shodan offical website](https://www.shodan.io) to register and obtain an API key.
+ - They are free!
+   
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues, suggest enhancements, or submit pull requests to improve the project.
